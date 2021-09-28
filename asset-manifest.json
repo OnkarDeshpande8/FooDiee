@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FooDiee/static/css/main.2e2debe2.chunk.css",
+    "main.js": "/FooDiee/static/js/main.d4c5d21d.chunk.js",
+    "main.js.map": "/FooDiee/static/js/main.d4c5d21d.chunk.js.map",
+    "runtime-main.js": "/FooDiee/static/js/runtime-main.7a9a1cfb.js",
+    "runtime-main.js.map": "/FooDiee/static/js/runtime-main.7a9a1cfb.js.map",
+    "static/js/2.dc47f8ec.chunk.js": "/FooDiee/static/js/2.dc47f8ec.chunk.js",
+    "static/js/2.dc47f8ec.chunk.js.map": "/FooDiee/static/js/2.dc47f8ec.chunk.js.map",
+    "index.html": "/FooDiee/index.html",
+    "static/css/main.2e2debe2.chunk.css.map": "/FooDiee/static/css/main.2e2debe2.chunk.css.map",
+    "static/js/2.dc47f8ec.chunk.js.LICENSE.txt": "/FooDiee/static/js/2.dc47f8ec.chunk.js.LICENSE.txt",
+    "static/media/meals1.56133e62.jpg": "/FooDiee/static/media/meals1.56133e62.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a9a1cfb.js",
+    "static/js/2.dc47f8ec.chunk.js",
+    "static/css/main.2e2debe2.chunk.css",
+    "static/js/main.d4c5d21d.chunk.js"
+  ]
+}
